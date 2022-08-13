@@ -1,0 +1,6 @@
+.search_box, .content_box, .brief_description {
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 5px; 
+    height: 150px;  
+}
